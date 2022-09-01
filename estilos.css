@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+    /* height: 10px; */
+    font-size: 50px;
+    position: static
+}
+
+.ejemplo1{
+    color: purple;
+    background-color: black;
+    display: inline;
+    position: 10px;
+    display: flexbox;
+    flex-direction: ;
+}
+
+.ejemplo2{
+    color: yellowgreen;
+    background-color: blue;
+}
+
+#especial {
+    /* color: silver;
+    background-color: aqua; */
+    border-bottom: 2px solid black;
+}
+
+#boton{
+    /* border-bottom: 20px solid rgb(251, 0, 0); */
+    position: absolute;
+    bottom: 10px;
+    width: 50%;
+    border: 3px solid #8AC007;
+
+}
